@@ -2,8 +2,8 @@
 //   setPartA(): void;
 //   setPartB(): void;
 //   setPartC(): void;
-// }
-
+// 
+export default({})
 // class ConcreteBuilder1 implements Builder {
 //   private product!: Product1;
 //   constructor() {
